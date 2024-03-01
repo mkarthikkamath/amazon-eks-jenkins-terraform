@@ -32,5 +32,5 @@ variable "instance_ami" {
 
 }
 variable "keyname" {
-  
+  default = "ibuchh-key"
 }
